@@ -1,0 +1,1 @@
+%CXX% -o %OUTDIR%/test.so test.cpp -shared

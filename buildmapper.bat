@@ -1,0 +1,1 @@
+%CXX% -o %OUTDIR%/ElfMapper main.cpp -w -std=c++17
